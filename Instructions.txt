@@ -1,0 +1,20 @@
+AluraPic Project
+By Gabrial Broedel Meira
+
+Initialization requirements
+To initialize the project you will need to have installed on your machine Node.Js in version 8 and Angular CLI in version 6
+
+Step-by-step for startup
+
+1 - Download the "aurapic" and "api" folders and extract the folders.
+2 - Open the command prompt and locate the api folder with "cd".
+3 - Initialize the folder with "npm start".
+4 - Open another command prompt and locate the "alurapic" folder.
+5 - Initialize the folder with "ng serve --open"
+
+In the browser will open a login page in it put the data "test" and "123" for user and password respectively.
+If it has not opened automatically write in the URL "http://localhost:4200/" that will be directed to the login page.
+
+If any error occurs report in the email: gabrielmeirteste@gamil.com
+
+Thank you
